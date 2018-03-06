@@ -1,4 +1,3 @@
-
 <svg onload="init()" xmlns="http://www.w3.org/2000/svg"
 aria-label="Calendar" role="img"
 viewBox="0 0 512 512">
@@ -40,7 +39,7 @@ function init() {
   fill="#fff" 
   font-family="monospace"
   font-size="140px"
-  style="text-anchor: left">FEB</text>
+  style="text-anchor: left"></text>
 
 <text id="day"
   x="256" 
@@ -48,7 +47,7 @@ function init() {
   fill="#66757f" 
   font-family="monospace"
   font-size="256px"
-  style="text-anchor: middle">29</text>
+  style="text-anchor: middle"></text>
 
 <text id="weekday"
   x="256" 
@@ -56,5 +55,5 @@ function init() {
   fill="#66757f" 
   font-family="monospace"
   font-size="64px"
-  style="text-anchor: middle">Sunday</text>
+  style="text-anchor: middle"></text>
 </svg>
